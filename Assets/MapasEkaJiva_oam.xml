@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<widget xmlns="http://openajax.org/metadata" spec="1.0" name="MapasEkaJiva" version="1">
+
+<description type="text/html"><![CDATA[Widget Exported from Flash Professional]]></description>
+
+<category name="Flash Animation"/>
+<remarks>Compatible with: InDesign CC, Dreamweaver CC, Muse</remarks>
+<icon src="PosterImg_616.png" width="1280" height="900"/>
+<require type="other" src="MapasEkaJiva.html"/>
+<require type="javascript" src="MapasEkaJiva.js"/>
+<require type="image" src="images/MapasEkaJiva_atlas_1.png"/>
+<require type="image" src="images/MapasEkaJiva_atlas_2.png"/>
+<require type="image" src="images/108ppi/Mesa de trabajo 2hdpi.jpg"/>
+<require type="image" src="images/108ppi/Mesa de trabajo 9hdpi.jpg"/>
+<require type="image" src="images/1x/BAzulmdpi.png"/>
+<require type="image" src="images/1x/BAzul_1mdpi.png"/>
+<require type="image" src="images/1x/BMoradomdpi.png"/>
+<require type="image" src="images/1x/BMorado_1mdpi.png"/>
+<require type="image" src="images/1x/BVerdemdpi.png"/>
+<require type="image" src="images/1x/BVerde_1mdpi.png"/>
+<require type="image" src="images/1x/Fondomdpi.png"/>
+<require type="image" src="images/2x/1x/1.png"/>
+<require type="image" src="images/Escuela/Amdpi.png"/>
+<require type="image" src="images/Escuela/Azmdpi.png"/>
+<require type="other" src="images/Escuela/BarcoClase_atlas_1.json"/>
+<require type="image" src="images/Escuela/BarcoClase_atlas_1.png"/>
+<require type="image" src="images/Escuela/BarcoClase_atlas_2.png"/>
+<require type="image" src="images/Escuela/Colores_atlas_1.png"/>
+<require type="image" src="images/Escuela/Cuerpomdpi.png"/>
+<require type="image" src="images/Escuela/Examen2_atlas_1.png"/>
+<require type="image" src="images/Escuela/Examen3_atlas_1.png"/>
+<require type="image" src="images/Escuela/Graficamdpi.png"/>
+<require type="image" src="images/Escuela/Grafica_1mdpi.png"/>
+<require type="image" src="images/Escuela/InfoFinal_atlas_1.png"/>
+<require type="image" src="images/Escuela/InfoFinal_atlas_2.png"/>
+<require type="image" src="images/Escuela/InfoFinal_atlas_3.png"/>
+<require type="image" src="images/Escuela/interactivo bcho_atlas_1.png"/>
+<require type="image" src="images/Escuela/interactivo bcho_atlas_2.png"/>
+<require type="other" src="images/Escuela/interactivo vcho_atlas_1.json"/>
+<require type="image" src="images/Escuela/interactivo vcho_atlas_1.png"/>
+<require type="image" src="images/Escuela/interactivo vcho_atlas_2.png"/>
+<require type="image" src="images/Escuela/Interfaz Vocho_atlas_1.png"/>
+<require type="image" src="images/Escuela/Juanito_atlas_1.png"/>
+<require type="image" src="images/Escuela/Mapamdpi.png"/>
+<require type="image" src="images/Escuela/Nmdpi.png"/>
+<require type="image" src="images/Escuela/RECUP_interactivo bcho_atlas_1.png"/>
+<require type="image" src="images/Escuela/Recurso 2mdpi.png"/>
+<require type="image" src="images/Escuela/Recurso 3mdpi.png"/>
+<require type="image" src="images/Escuela/Recurso 4mdpi.png"/>
+<require type="image" src="images/Escuela/Recurso 5mdpi.png"/>
+<require type="folder" src="images"/>
+<require type="folder" src="images/108ppi"/>
+<require type="folder" src="images/1x"/>
+<require type="folder" src="images/2x"/>
+<require type="folder" src="images/Escuela"/>
+<require type="folder" src="images/MInteractivos"/>
+<content></content>
+
+<properties name="Properties">
+<property name="default-width" defaultValue="1280" hidden="true"/>
+<property name="default-height" defaultValue="900" hidden="true"/>
+<property name="resizable" defaultValue="false" hidden="true"/>
+<property name="centering" defaultValue="" hidden="true"/>
+<property name="scaling" defaultValue="" hidden="true"/>
+<property name="html-page" defaultValue="MapasEkaJiva.html" hidden="true"/>
+<property name="target-platform" defaultValue="htmlcanvas" hidden="true"/>
+<property name="created-in" defaultValue="Adobe Animate CC" hidden="true"/>
+</properties>
+
+</widget>
