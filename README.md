@@ -1,2 +1,2 @@
-# infografiamapas
+# infografia_mapas
 Infografia
